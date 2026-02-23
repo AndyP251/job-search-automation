@@ -1,4 +1,4 @@
-# 🚀 Job Scraper — Quick Start Guide
+# Job Scraper — Quick Start Guide
 
 Scrape 22 job boards for SDR/BDR/ADR roles with one click.
 
@@ -12,7 +12,7 @@ Scrape 22 job boards for SDR/BDR/ADR roles with one click.
 2. Click the big yellow **"Download Python"** button
 3. Run the installer
 
-> ⚠️ **IMPORTANT (Windows only):**
+>  **IMPORTANT (Windows only):**
 > Check the box **"Add Python to PATH"** at the bottom of the installer — this is critical!
 
 ---
